@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "gallery": "Galerie",
+    "about": "À propos",
+    "contact": "Contact",
+    "cart": "Panier"
+  },
+  "hero": {
+    "title": "L'Art Qui Raconte l'Histoire de la Vie",
+    "subtitle": "Découvrez une collection unique d'œuvres d'art qui allient authenticité et modernité, où chaque toile parle le langage des couleurs et des émotions",
+    "exploreBtn": "Explorer la Galerie",
+    "aboutBtn": "Rencontrer l'Artiste"
+  },
+  "gallery": {
+    "title": "Galerie d'Art",
+    "subtitle": "Une sélection soignée des dernières œuvres d'art reflétant une vision artistique contemporaine",
+    "all": "Tout",
+    "landscapes": "Paysages",
+    "portraits": "Portraits",
+    "abstract": "Abstrait",
+    "addToCart": "Ajouter au Panier",
+    "available": "Disponible",
+    "sold": "Vendu",
+    "price": "€"
+  },
+  "about": {
+    "title": "À Propos de l'Artiste",
+    "description": "Ahmed Daghlis, artiste arabe contemporain basé en France, combine authenticité et modernité dans ses œuvres. Il a commencé son parcours artistique depuis l'enfance, et son talent s'est développé à travers des années d'étude et de pratique.",
+    "philosophy": "Philosophie Artistique",
+    "quote": "L'art n'est pas seulement des couleurs sur toile, mais un langage parlé par l'âme. À travers mes œuvres, je m'efforce de transmettre des émotions humaines authentiques et de raviver la beauté dans un monde qui a besoin de plus d'espoir et d'inspiration.",
+    "achievements": "Réalisations et Expérience",
+    "awards": "Prix Artistiques",
+    "awardsDesc": "Lauréat de 5 prix locaux et européens",
+    "soloExhibitions": "Expositions Individuelles",
+    "soloDesc": "A organisé 12 expositions individuelles en France et en Europe",
+    "groupExhibitions": "Expositions Collectives",
+    "groupDesc": "A participé à plus de 30 expositions collectives",
+    "experience": "Années d'Expérience",
+    "expDesc": "Plus de 15 ans dans les arts visuels"
+  },
+  "contact": {
+    "title": "Me Contacter",
+    "subtitle": "Je suis ouvert à la communication pour discuter d'œuvres d'art ou collaborer sur de nouveaux projets",
+    "form": {
+      "title": "Envoyer un Message",
+      "name": "Nom Complet",
+      "email": "Adresse Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer"
+    },
+    "info": {
+      "title": "Informations de Contact",
+      "email": "ahmed@daghlisart.com",
+      "phone": "+33 6 12 34 56 78",
+      "location": "Paris, France",
+      "hours": "Heures d'Ouverture",
+      "weekdays": "Lundi - Vendredi",
+      "weekdaysTime": "9h00 - 18h00",
+      "weekend": "Samedi",
+      "weekendTime": "10h00 - 16h00",
+      "sunday": "Dimanche",
+      "sundayTime": "Fermé"
+    }
+  },
+  "cart": {
+    "title": "Panier d'Achat",
+    "empty": "Le panier est vide",
+    "total": "Total",
+    "checkout": "Commander",
+    "remove": "Supprimer",
+    "quantity": "Quantité"
+  },
+  "checkout": {
+    "title": "Commande",
+    "customerInfo": "Informations Client",
+    "payment": "Paiement",
+    "shipping": "Livraison",
+    "review": "Révision de Commande",
+    "fullName": "Nom Complet",
+    "email": "Adresse Email",
+    "phone": "Numéro de Téléphone",
+    "address": "Adresse",
+    "city": "Ville",
+    "postalCode": "Code Postal",
+    "country": "Pays",
+    "paymentMethod": "Méthode de Paiement",
+    "creditCard": "Carte de Crédit",
+    "paypal": "PayPal",
+    "cardNumber": "Numéro de Carte",
+    "expiryDate": "Date d'Expiration",
+    "cvv": "CVV",
+    "continue": "Continuer",
+    "placeOrder": "Passer Commande",
+    "orderSummary": "Résumé de Commande",
+    "subtotal": "Sous-total",
+    "shipping": "Livraison",
+    "tax": "TVA",
+    "total": "Total",
+    "securePayment": "Paiement Sécurisé et Crypté",
+    "shippingOptions": {
+      "standard": "Livraison Standard (3-5 jours ouvrés)",
+      "express": "Livraison Express (1-2 jours ouvrés)",
+      "international": "Livraison Internationale (7-14 jours ouvrés)"
+    }
+  },
+  "shipping": {
+    "title": "Informations de Livraison",
+    "france": {
+      "title": "Livraison en France",
+      "standard": "Livraison standard : 3-5 jours ouvrés - Gratuite pour les commandes de plus de 100€",
+      "express": "Livraison express : 1-2 jours ouvrés - 15€",
+      "pickup": "Retrait en galerie : Gratuit (Paris)"
+    },
+    "international": {
+      "title": "Livraison Internationale depuis la France",
+      "europe": "Europe : 5-7 jours ouvrés - 25€",
+      "worldwide": "Reste du monde : 10-15 jours ouvrés - 45€",
+      "insurance": "Assurance livraison incluse",
+      "customs": "Des droits de douane peuvent s'appliquer selon le pays de destination"
+    }
+  },
+  "legal": {
+    "returns": "Politique de retour : 14 jours selon la loi française",
+    "warranty": "Garantie de qualité et d'authenticité",
+    "privacy": "Protection des données personnelles selon RGPD"
+  }
+}
+

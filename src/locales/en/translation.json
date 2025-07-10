@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "about": "About",
+    "contact": "Contact",
+    "cart": "Cart"
+  },
+  "hero": {
+    "title": "Art That Tells Life's Story",
+    "subtitle": "Discover a unique collection of artworks that blend authenticity with modernity, where each painting speaks the language of colors and emotions",
+    "exploreBtn": "Explore Gallery",
+    "aboutBtn": "Meet the Artist"
+  },
+  "gallery": {
+    "title": "Art Gallery",
+    "subtitle": "A curated selection of the latest artworks reflecting contemporary artistic vision",
+    "all": "All",
+    "landscapes": "Landscapes",
+    "portraits": "Portraits",
+    "abstract": "Abstract",
+    "addToCart": "Add to Cart",
+    "available": "Available",
+    "sold": "Sold",
+    "price": "€"
+  },
+  "about": {
+    "title": "About the Artist",
+    "description": "Ahmed Daghlis, a contemporary Arab artist based in France, combines authenticity and modernity in his works. He began his artistic journey since childhood, and his talent developed through years of study and practice.",
+    "philosophy": "Artistic Philosophy",
+    "quote": "Art is not just colors on canvas, but a language spoken by the soul. Through my works, I strive to convey genuine human emotions and revive beauty in a world that needs more hope and inspiration.",
+    "achievements": "Achievements & Experience",
+    "awards": "Art Awards",
+    "awardsDesc": "Recipient of 5 local and European awards",
+    "soloExhibitions": "Solo Exhibitions",
+    "soloDesc": "Held 12 solo exhibitions in France and Europe",
+    "groupExhibitions": "Group Exhibitions",
+    "groupDesc": "Participated in over 30 group exhibitions",
+    "experience": "Years of Experience",
+    "expDesc": "Over 15 years in visual arts"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "I welcome communication to discuss artworks or collaborate on new projects",
+    "form": {
+      "title": "Send Message",
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send"
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "ahmed@daghlisart.com",
+      "phone": "+33 6 12 34 56 78",
+      "location": "Paris, France",
+      "hours": "Working Hours",
+      "weekdays": "Monday - Friday",
+      "weekdaysTime": "9:00 AM - 6:00 PM",
+      "weekend": "Saturday",
+      "weekendTime": "10:00 AM - 4:00 PM",
+      "sunday": "Sunday",
+      "sundayTime": "Closed"
+    }
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Cart is empty",
+    "total": "Total",
+    "checkout": "Checkout",
+    "remove": "Remove",
+    "quantity": "Quantity"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "customerInfo": "Customer Information",
+    "payment": "Payment",
+    "shipping": "Shipping",
+    "review": "Order Review",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "address": "Address",
+    "city": "City",
+    "postalCode": "Postal Code",
+    "country": "Country",
+    "paymentMethod": "Payment Method",
+    "creditCard": "Credit Card",
+    "paypal": "PayPal",
+    "cardNumber": "Card Number",
+    "expiryDate": "Expiry Date",
+    "cvv": "CVV",
+    "continue": "Continue",
+    "placeOrder": "Place Order",
+    "orderSummary": "Order Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax",
+    "total": "Total",
+    "securePayment": "Secure & Encrypted Payment",
+    "shippingOptions": {
+      "standard": "Standard Shipping (3-5 business days)",
+      "express": "Express Shipping (1-2 business days)",
+      "international": "International Shipping (7-14 business days)"
+    }
+  },
+  "shipping": {
+    "title": "Shipping Information",
+    "france": {
+      "title": "Shipping within France",
+      "standard": "Standard shipping: 3-5 business days - Free for orders over €100",
+      "express": "Express shipping: 1-2 business days - €15",
+      "pickup": "Gallery pickup: Free (Paris)"
+    },
+    "international": {
+      "title": "International Shipping from France",
+      "europe": "Europe: 5-7 business days - €25",
+      "worldwide": "Rest of the world: 10-15 business days - €45",
+      "insurance": "Shipping insurance included",
+      "customs": "Customs duties may apply depending on destination country"
+    }
+  },
+  "legal": {
+    "returns": "Return policy: 14 days according to French law",
+    "warranty": "Quality and authenticity guarantee",
+    "privacy": "Personal data protection according to GDPR"
+  }
+}
+
